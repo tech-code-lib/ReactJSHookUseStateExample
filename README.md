@@ -1,5 +1,5 @@
 # ReactJSHookUseStateExample
-This is a very simple example demonstrating React JS Hook UseState in a simple example.
+This is a very simple example demonstrating React JS Hook UseState in a simple example. run 'npm install' before running this code.
 
 ## First Import
 ### import React, { useState } from 'react';
